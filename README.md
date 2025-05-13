@@ -1,5 +1,6 @@
-# food-quality-inspection-in-agriculture
-PURPOSE:-
+# **food-quality-inspection-in-agriculture**
+
+# **PURPOSE:-**
 
 The purpose of the code is to automatically classify the quality of strawberries in an image using color-based image processing with OpenCV. It analyzes the color composition of each strawberry image to determine whether the fruit is:
 
@@ -9,7 +10,7 @@ PARTIALLY SPOILED
 
 ROTTEN
 
-Technologies Used:
+# **Technologies Used:**
 
 1. Python – Main programming language.
 
@@ -19,11 +20,10 @@ Technologies Used:
 
 3. NumPy – For array operations and defining color ranges.
 
+# **Application Area:**
 
-
-Application Area:
 Image processing and computer vision for fruit quality inspection.
 
-Conclusion:
+# **Conclusion:**
 
 This code demonstrates a simple yet effective approach to classify strawberry quality using color-based image processing techniques. By leveraging OpenCV and NumPy, it identifies fresh and defective regions, enabling automated fruit inspection that can be useful in agriculture, packaging, and retail industries.
