@@ -22,7 +22,22 @@ ROTTEN
 
 # **Application Area:**
 
-Image processing and computer vision for fruit quality inspection.
+1. Automated Quality Check – Reduces manual inspection time and human error.
+
+
+2. Cost-Effective – Uses simple, open-source tools without expensive hardware.
+
+
+3. Real-Time Processing – Can be integrated with cameras for live analysis.
+
+
+4. Consistency – Delivers uniform and objective grading of fruit quality.
+
+
+5. Scalable – Can be extended to other fruits or produce with similar techniques.
+
+
+
 
 # **Conclusion:**
 
